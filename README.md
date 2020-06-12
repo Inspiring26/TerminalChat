@@ -1,5 +1,6 @@
 # TerminalChat
 You can chat or transfer file in terminal between two or more machines.
+
 Easy to config, easy to use.
 
 # Usage
@@ -27,7 +28,7 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub hy@192.168.3.109
  
 4.Copy *i.sh* to the other machine and modify *thisNumber* in Config.
 
-5.After above, you can use with the following method:
+5.After above, you can use the shell script  with the following method:
 ```
 # show new message
 ~/Downloads$ ./i.sh
