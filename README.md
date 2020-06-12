@@ -36,7 +36,12 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub hy@192.168.3.109
 ~/Downloads$ ./i.sh "message"
 #send file
 ~/Downloads$ ./i.sh -f /home/h/Pictures/screenshot_139.png
-``` 
+```
+**Node:**
+If send a long sentence with blank,should put it in ''or"".
+Show "scp: /home/h/Downloads/infoswap.txt: No such file or directory
+" after first command is normal result.  
+  
 # Example
 ![pic1](https://github.com/Inspiring26/TerminalChat/raw/master/example/screenshot_140.png)
 ![pic2](https://github.com/Inspiring26/TerminalChat/raw/master/example/screenshot_141.png)
