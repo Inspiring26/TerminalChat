@@ -39,11 +39,17 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub hy@192.168.3.109
 ```
 **Note:**
 
-If send a long sentence with blank,should put it in ''or"".
+If send a long sentence with blank, you should put it in ''or"".
 
 Show "scp: /home/h/Downloads/infoswap.txt: No such file or directory
 " after first command is normal result.  
   
 # Example
+
+**Chat:**
+
 ![pic1](https://github.com/Inspiring26/TerminalChat/raw/master/example/screenshot_140.png)
+
+**Send file:**
+
 ![pic2](https://github.com/Inspiring26/TerminalChat/raw/master/example/screenshot_141.png)
