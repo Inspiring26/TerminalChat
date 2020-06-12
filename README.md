@@ -37,7 +37,7 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub hy@192.168.3.109
 #send file
 ~/Downloads$ ./i.sh -f /home/h/Pictures/screenshot_139.png
 ```
-**Node:**
+**Note:**
 If send a long sentence with blank,should put it in ''or"".
 Show "scp: /home/h/Downloads/infoswap.txt: No such file or directory
 " after first command is normal result.  
